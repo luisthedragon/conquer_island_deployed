@@ -16,6 +16,6 @@ Clicking on a tile makes it change from lion to dog or viceversa.<br>
 The effect also applies to adjacent tiles.<br>
 This game was inspired by the [Lights out](https://en.wikipedia.org/wiki/Lights_Out_(game)) game
 
-This repository is a static build that was made with the purpose of being uploaded directly to Netlify.
+This repository is a static build made with the purpose of facilitating deployments to Netlify by making them only when needed.
 
 The source code can be found [here](https://github.com/luisthedragon/conquer_island)
